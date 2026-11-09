@@ -1,4 +1,4 @@
-# Inven-Track — Punto 3: Pruebas de backend y frontend
+# Inven-Track — Pruebas de backend y frontend
 
 Pruebas automatizadas para la API (Spring Boot) y para los componentes del frontend (React),
 incluyendo **casos de error y casos límite**, no solo el camino feliz.
