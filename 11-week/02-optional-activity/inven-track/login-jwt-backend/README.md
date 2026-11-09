@@ -1,4 +1,4 @@
-# Inven-Track — Punto 1: Login con JWT y endpoints protegidos
+# Inven-Track — Login con JWT y endpoints protegidos
 
 API REST (Spring Boot 3, Java 17) del inventario de una salsamentaria. En este punto se agrega:
 
