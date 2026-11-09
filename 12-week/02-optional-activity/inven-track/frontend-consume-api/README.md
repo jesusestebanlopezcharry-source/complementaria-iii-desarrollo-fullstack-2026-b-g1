@@ -1,4 +1,4 @@
-# Inven-Track — Punto 2: Frontend que consume la API con token
+# Inven-Track — Frontend que consume la API con token
 
 Frontend en **React + Vite** que hace login contra la API, guarda el token, consume un endpoint
 protegido y muestra los datos, resolviendo **CORS** y manejando **carga** y **error**.
